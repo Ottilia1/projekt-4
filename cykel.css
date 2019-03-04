@@ -1,0 +1,338 @@
+.container{
+    width:80%;
+    margin: 0 auto;   
+}
+header{
+    background-color: #062D62;
+    width:96.7%;
+    margin:20px;
+    background-color: #062D62;
+    padding: 10px;
+    
+
+}
+header::after{
+    content: "";
+    display: table;
+    clear: both;
+    color: #FCDC48;
+}
+.logo{
+   position: relative;
+ padding-left: 20px;
+}
+nav {
+    float: right;
+}
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin-left:70px;
+    padding-top: 45px;
+    
+    position: relative;
+    color: #FCDC48;
+}
+nav a{
+    color:#FCDC48;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+}
+
+.boks{
+    background-color:lightgray;
+     
+    margin-left:20px;
+     padding: 59px;
+    color: #062D62;
+    font-size: 12px;
+}
+
+.img{
+    float: right;
+    padding-left: 50px;
+    margin-left: 200px;
+    padding-right:px;
+    
+}
+
+.boks2{
+    background-color:#062D62;
+     
+    margin-left:20px;
+     
+    color: #FCDC48;
+    font-size: 12px;
+}
+ 
+    
+.img2{
+    
+    margin-top: 60px;
+    padding-left: 20px;
+    margin-right: 900px;
+   }
+
+.title1{
+    padding-top: 25px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+ 
+.fri{
+    margin-top: -230px;
+    margin-left: 300px;
+}
+
+.igår{
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+.by{
+    margin-top: 0px;
+    margin-left: 300px;
+    padding-bottom: 80px;
+}
+
+.img3{
+    
+    margin-top: 60px;
+    padding-left: 20px;
+    margin-right: 900px;
+   }
+ 
+.der{
+    margin-top: -230px;
+    margin-left: 300px;
+}
+
+.har{
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+.alt{
+    margin-top: 0px;
+    margin-left: 300px;
+    padding-bottom: 80px;
+}
+    
+    .img4{
+    
+    margin-top: 60px;
+    padding-left: 20px;
+    margin-right: 900px;
+   }
+ 
+.op{
+    margin-top: -230px;
+    margin-left: 300px;
+}
+
+.vi{
+    margin-top: 0px;
+    margin-left: 300px;
+    padding-bottom: 150px;
+}
+
+.boks3{
+    background-color:#FCDC48;
+     
+    margin-left:20px;
+     
+    color: #062D62;
+    font-size: 12px;
+}
+    
+.title2{
+    padding-top: 25px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+  .img5{
+    
+   margin: 100px;
+    margin-top: 30px;
+      }
+
+  .img6{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+      }
+
+  .cafekraz{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .cafek{
+      margin-left: 300px;
+    }
+
+.plads6{
+      margin-left: 300px;
+    }
+
+
+
+       .img7{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+   }
+
+  .arkaden{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .arkaden1{
+      margin-left: 300px;
+    }
+
+.arkaden2{
+      margin-left: 300px;
+    }
+    
+
+       .img8{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+   }
+
+  .odense{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .odense1{
+      margin-left: 300px;
+    }
+
+       .img9{
+     margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+   }
+
+  .sushi{
+      margin-top: -150px;
+      margin-left: 300px;
+    }
+
+ .sushi1{
+      margin-left: 300px;
+    }
+
+.sushi2{
+      margin-left: 300px;
+    }
+
+.img10{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+   }
+
+  .bio{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .bio1{
+      margin-left: 300px;
+    }
+
+.bio2{
+      margin-left: 300px;
+    }
+
+.img11{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+    
+   }
+
+  .brandts{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .brandts1{
+      margin-left: 300px;
+    }
+
+.brandts2{
+      margin-left: 300px;
+    }
+    
+.img12{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+    
+   }
+
+  .kage{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .kage1{
+      margin-left: 300px;
+    }
+
+.kage2{
+      margin-left: 300px;
+    }
+
+.img13{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+    
+   }
+
+  .munke{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .munke1{
+      margin-left: 300px;
+    }
+    
+
+.img14{
+    
+    margin-top: 60px;
+    padding: 20px;
+    margin-right: 900px;
+    
+   }
+
+  .hus{
+      margin-top: -180px;
+      margin-left: 300px;
+    }
+
+ .hus1{
+      margin-left: 300px;
+    }
