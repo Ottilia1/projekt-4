@@ -54,7 +54,7 @@ nav a{
     font-size: 12px;
 }
 
-.img{
+.img00{
     float: right;
     padding-left: 50px;
     margin-left: 200px;
@@ -335,4 +335,50 @@ nav a{
 
  .hus1{
       margin-left: 300px;
+     padding-bottom: 50px;
+    
     }
+    footer {
+ background-color: #062D62;
+    width:96.7%;
+    margin:20px;
+    background-color: #062D62;
+    padding: 2px;
+    padding-left: 20px;
+        height: 320px;
+        }
+
+.footer1{
+    float: left;
+    font-family: alial, sans-serif;
+    color: #FCDC48;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.p2 {
+    margin-top: 160px;
+    margin-left: 200px; 
+    font-family: alial, sans-serif;
+    color: #FCDC48;
+    font-size: 20px;
+    position:absolute;
+}
+
+.p3 {
+    margin-top: 200px;
+    margin-left: 200px; 
+    font-family: alial, sans-serif;
+    color: #FCDC48;
+    font-size: 20px;
+    position:absolute;
+}
+.p4 {
+    margin-top: 240px;
+    margin-left: 200px; 
+    font-family: alial, sans-serif;
+    color: #FCDC48;
+    font-size: 20px;
+    position:absolute;
+}
